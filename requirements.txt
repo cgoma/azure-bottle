@@ -51,7 +51,7 @@ trollius==2.2
 tunnelmanager==0.7.7.2
 typing==3.6.6
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.3.0
 virtualenv-clone==0.5.1
 websocket-client==0.47.0
